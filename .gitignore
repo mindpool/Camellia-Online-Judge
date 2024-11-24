@@ -13,6 +13,13 @@ dist-ssr
 *.local
 
 temp
+doc_build/
+dist/
+coverage/
+release/
+output/
+output_resource/
+log/
 
 # Editor directories and files
 .vscode/*
